@@ -1,4 +1,12 @@
-# routes-app
+# Routes app
+
+![](https://img.shields.io/badge/Made%20with-Vue-success)
+
+This is a simple app for you learn to use routes in vuejs.
+
+![](https://imgur.com/Dzs2bT3.gif)
+
+## Starting 🚀
 
 ## Project setup
 ```
@@ -15,5 +23,6 @@ npm run serve
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+------
+
+⌨️ with ❤️ for [AndyGeek](https://github.com/andygeek) 😊
